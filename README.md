@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ultranumb-coder/Game_Web_tgbot
+   git clone https://github.com/ultrabyte-coder/Game_Web_tgbot
    cd Game_Web_tgbot
    
 # Установите необходимые зависимости:
@@ -78,7 +78,7 @@ The bot greets the user and provides a list of games. When a game is selected, t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ultranumb-coder/Game_Web_tgbot
+   git clone https://github.com/ultrabyte-coder/Game_Web_tgbot
    cd Game_Web_tgbot
    
 # Install the necessary dependencies:
